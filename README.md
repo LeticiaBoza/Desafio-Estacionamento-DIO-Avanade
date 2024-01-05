@@ -8,10 +8,10 @@ O objetivo deste projeto é criar um sistema de estacionamento simples que será
 
 ## Funcionalidades 📚
 
-1 - Cadastrar veículo
-2 - Remover veículo
-3 - Listar veículos
-4 - Encerrar
+1 - Cadastrar veículo  
+2 - Remover veículo  
+3 - Listar veículos  
+4 - Encerrar  
 
 ## Tecnologias Utilizadas 📚
 
