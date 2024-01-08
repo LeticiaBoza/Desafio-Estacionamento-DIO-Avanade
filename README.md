@@ -21,7 +21,7 @@ O objetivo deste projeto é criar um sistema de estacionamento simples que será
 ## Como Executar
 
 1. Certifique-se de ter o ambiente de desenvolvimento C# configurado
-2. Clone este repositório: `git clone https://github.com/seu-usuario/seu-projeto.git](https://github.com/LeticiaBoza/Desafio-Estacionamento-DIO-Avanade`
+2. Clone este repositório: `git clone https://github.com/LeticiaBoza/Desafio-Estacionamento-DIO-Avanade`
 3. Navegue até o diretório do projeto: `cd seu-projeto`
 4. Execute o projeto: `dotnet run`
 
